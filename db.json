@@ -1,0 +1,14 @@
+{
+  "promos": [
+    {
+      "id": 1,
+      "title": "Diskon 50% Kopi Kenangan",
+      "imageUrl": "https://via.placeholder.com/150"
+    },
+    {
+      "id": 2,
+      "title": "Cashback Belanja di Superindo",
+      "imageUrl": "https://via.placeholder.com/150"
+    }
+  ]
+}
