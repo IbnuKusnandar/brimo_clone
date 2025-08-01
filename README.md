@@ -21,6 +21,7 @@ INI ADALAH TAMPILAN DAFTAR
 INI ADALAH TAMPILAN HOME PAGE
 <img width="1920" height="1032" alt="{082A9DAD-3651-4E08-ACDA-EBB3C7A58D1A}" src="https://github.com/user-attachments/assets/eb913b75-4c61-4fa7-a958-99fc331df83b" />
 
+INI ADALAH HALAMAN MUATASI PAGE
 <img width="1920" height="1032" alt="{625DCED1-3E47-4F5D-8F61-7C8A4E92CF55}" src="https://github.com/user-attachments/assets/21cbf196-f097-4c4c-8f7d-407fc63f6a1a" />
 
 <img width="1920" height="1032" alt="{F3A45D08-08B4-4A25-9206-671D304D73C4}" src="https://github.com/user-attachments/assets/ffc09e96-93b2-45c3-a13a-5a659dbdb4c0" />
