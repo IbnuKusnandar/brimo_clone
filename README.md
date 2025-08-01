@@ -14,9 +14,11 @@ INI ADALAH HASIL SCREENSHOT PROJECT DARI APLIKASI M-BANKING
 
 INI ADALAH TAMPILAN LOGIN
 <img width="1920" height="1032" alt="{F404058B-80D3-463E-8916-AAC3D0C6B9DC}" src="https://github.com/user-attachments/assets/c7704420-a85c-4d2c-a26d-2cc7cc98c3c9" />
+
 INI ADALAH TAMPILAN DAFTAR
 <img width="1920" height="1032" alt="{65EFE735-885A-4291-B854-625268F34776}" src="https://github.com/user-attachments/assets/6c21df7b-f924-4f61-824c-97cb470fe236" />
 
+INI ADALAH TAMPILAN HOME PAGE
 <img width="1920" height="1032" alt="{082A9DAD-3651-4E08-ACDA-EBB3C7A58D1A}" src="https://github.com/user-attachments/assets/eb913b75-4c61-4fa7-a958-99fc331df83b" />
 
 <img width="1920" height="1032" alt="{625DCED1-3E47-4F5D-8F61-7C8A4E92CF55}" src="https://github.com/user-attachments/assets/21cbf196-f097-4c4c-8f7d-407fc63f6a1a" />
